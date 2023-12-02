@@ -15,7 +15,7 @@ import numpy as np
 from musics.models import Track
 
 CLIENT_ID ='c0f7bc444ee0441b96234f958161ca9b'
-CLIENT_SECRET ='05a93b93e8ae420c85c451d88a7dbc64'
+CLIENT_SECRET =''                
 
 #"https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb"
 #"https://open.spotify.com/playlist/37i9dQZF1DX9ASuQophyb3",
